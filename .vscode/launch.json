@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "localhost",
             "server": "http://localhost",
-            "serverInstance": "DynamicsNAV110",
+            "serverInstance": "PV-NAV11-SE-CU1-DEV",
             "tenant": "",
             "authentication": "Windows",
             "port": 11149,
