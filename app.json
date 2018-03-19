@@ -1,0 +1,23 @@
+{
+  "id": "af794c6e-3691-4e8f-8400-34b30fa3bee2",
+  "name": "Rewards",
+  "publisher": "BAM",
+  "brief": "The extension enables the ability to assign one of three reward levels to customers: GOLD, SILVER, and BRONZE. Each reward level can be assigned a discount percentage.",
+  "description": "Reward levels of the customers",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-extension-example",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50500,
+    "to": 50600
+  }
+}
